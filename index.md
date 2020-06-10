@@ -1,3 +1,4 @@
 # Arash
-I am a machine learning scientist, a :coffee: drinker, and 
-:soccer: lover.
+![logo](figs/logo.jpeg)
+A Machine learning scientist interested in deep learning, 
+computer vision and generative models.
